@@ -1,0 +1,56 @@
+Este ficheiro foi desenvolvido com o objectivo de clarificar os utilizadores de duvidas que possam surgir.
+
+======================================================Menu Inicial=====================================================
+->Login:
+  Insira o seu id profissional com o formato referido e password pré-definido, com tamanho inferior a 50 caracteres;
+  Caso se não lembrar da sua password, carregue na opçao "Forgot Password", na qual será enviado um código para 
+  confirmação e posteriormente poderá mudar a sua password;
+  
+  Nota:Caso se enganar a preencher as suas credenciais, não se preocupe pode tentar de novo! 
+
+->Registo: 
+  Caso não tenha conta, insira a informaçao pedida:
+	Insira o seu código profissional, nao exceder os 8 caracteres(CCC_XXXX);
+	Insira o seu username e password à sua escolha, com o tamanho inferior a 50 caracteres;
+	
+	Nota: Apôs efetuar o registo, terá acesso às funcionalidades da aplicação.
+-> Sair:
+  Nesta opção, o utilizaddor desliga a aplicação, podendo voltar a usufruir a aplicação sempre que desejar.
+
+=====================================================🏢️ Menu Cliente 🏢️====================================================
+
+->Autorizar Registos:
+    --Lista de registos de profissionais de saúde:
+	  Nesta secção tem a opurtinidade de aceitar os pedidos de utilizadores de novos profissionais de sáude que 
+	  tenham aderido à aplicação,implementando o seu ID no espaço pedido. Caso verificar que o pedido não cumpre as 
+	  condições impostas pela entidade empreendedora, não escreva o ID em questão.No entanto, este pedido poderá 
+	  ser apagado.
+
+    --Lista de registos de agentes de segurança:
+    	  Nesta secção tem a opurtinidade de aceitar os pedidos de utilizadores de novos agentes de segurnça que 
+	  tenham aderido à aplicação,implementando o seu ID no espaço pedido. Caso verificar que o pedido não cumpre as 
+	  condições impostas pela entidade empreendedora, não escreva o ID em questão.No entanto, este pedido poderá 
+	  ser apagado.
+
+->Autorizar Edições:
+  Nesta secção tem a opurtinidade de aceitar os pedidos dos utilizadores implementando o seu ID no espaço pedido. Caso nao queira aceitar
+  um pedido, não escreva o ID em questão.No entanto, este pedido irá continuar por aceitar.
+ 
+->Autorizar Eliminações:
+    --Lista de registos de profissionais de saúde:
+	  Nesta secção tem a opurtinidade de aceitar os pedidos de utilizadores de profissionais de saúde que desejam 
+	  eliminar as sua contas,implementando o seu ID no espaço pedido. Caso verificar que o pedido não cumpre as 
+	  condições impostas pela entidade empreendedora, não escreva o ID em questão.No entanto, este pedido poderá 
+	  ser apagado.
+	
+    --Lista de registos de agentes de segurança:
+    	  Nesta secção tem a opurtinidade de aceitar os pedidos de utilizadores de agentes de segurança que desejam 
+	  eliminar as sua contas,implementando o seu ID no espaço pedido. Caso verificar que o pedido não cumpre as 
+	  condições impostas pela entidade empreendedora, não escreva o ID em questão.No entanto, este pedido poderá 
+	  ser apagado.
+    	
+->Sair do programa:
+	Nesta opção pode efetuar o Logout da aplicação,sendo direcionado para o menu inicial.
+	
+->HELP:
+	Nesta opção, pode consultar um ficheiro com a explicação das funcionalidades existentes nesta aplicação.

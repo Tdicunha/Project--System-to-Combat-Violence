@@ -1,0 +1,61 @@
+Este ficheiro foi desenvolvido com o objectivo de clarificar os utilizadores de duvidas que possam surgir.
+
+======================================================Menu Inicial=====================================================
+->Login:
+  Insira o seu id profissional com o formato referido e password pré-definido, com tamanho inferior a 50 caracteres;
+  Caso se não lembrar da sua password, carregue na opçao "Forgot Password", na qual será enviado um código para 
+  confirmação e posteriormente poderá mudar a sua password;
+  
+  Nota:Caso se enganar a preencher as suas credenciais, não se preocupe pode tentar de novo! 
+
+->Registo: 
+  Caso não tenha conta, insira a informaçao pedida:
+	Insira o seu código profissional, nao exceder os 8 caracteres(CCC_XXXX);
+	Insira o seu username e password à sua escolha, com o tamanho inferior a 50 caracteres;
+	
+	Nota: Apôs efetuar o registo, terá acesso às funcionalidades da aplicação.
+	
+->⚠️EMERGÊNCIA⚠️: EM CASO DE PERIGO OU ESTÁ A PRESENCIAR ALGUM CRIME, NÃO HESITE EM CARREGAR NESTE BOTÃO!!!!!!!!!!!
+              	   IRÁ SER ENVIADO UM SINAL DE SOCORRO AO AGENTE MAIS PROXIMO DO LOCAL EM QUE SE ENCONTRA!!!
+                   NÃO ENTRE EM PÂNICO!!MANTENHA A CALMA!!
+
+-> Sair:
+  Nesta opção, o utilizaddor desliga a aplicação, podendo voltar a usufruir a aplicação sempre que desejar.
+
+====================================================== 🏥️ Menu Cliente 🏥️ ============================================
+
+->Registar crime:
+  Caso tenha testemunhado um crime ou seja vitima de um,preencha este questionário rápido da seguinte forma:
+   --Data: 
+   	--Insira o dia: preencha o espaço com um numero entre(1-31);
+  	--Insira o mês: preencha o espaço com um numero entre(1-12);
+  	--Insira o ano: preencha o espaço com um numero entre(2000-2150).
+  	
+  	Aviso: Insira os dados pedidos no tempo em que se encontra!!!
+   --Hora: 
+        --hh:mm: preencha o espaço das horas com numeros entre (0-23) e os minutos com numeros entre (1-59).
+   --Local: 
+   	--Rua,Concelho: preencha o espaço com o nome da rua e o do concelho (não exceda os 40 caracteres) 
+   	
+   	
+   --Tipo de Agressao: preencha o espaço com o tipo de crime que presenciou (não exceda os 40 caracteres);
+   
+   --Nome: preencha o espaço com o nome da vitima ou seu próprio nome(não exceda os 40 caracteres).
+   	   CASO TEMA PELA SUA SEGURANÇA, PODE DENUNCIAR O CRIME DE FORMA ANÓNIMA!!PARA ISSO ESCREVA
+   	   NO ESPAÇO O SEGUINTE ➡️ anonimo
+
+->Gerir registo:
+  --Alterar registo:
+	Caso deseja alterar o seu username ou password, preencha os espaços com a nova infromaçao que deseja. 
+	Caso deseja alterar apenas um elemento, preencha esse espaço com um zero.
+	
+  --Apagar registo:
+ 	Nesta opção pode eliminar o seu resgisto, caso não esteja interresado em continuar a usar esta aplicação.
+
+->Sair do programa:
+	Nesta opção pode efetuar o Logout da aplicação,sendo direcionado para o menu inicial.
+	
+->Chat:
+       Pode comunicar com um agente de segurança que esteja online em tempo real.
+->HELP:
+	Nesta opção, pode consultar um ficheiro com a explicação das funcionalidades existentes nesta aplicação.

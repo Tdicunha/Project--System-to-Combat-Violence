@@ -1,0 +1,58 @@
+Este ficheiro foi desenvolvido com o objectivo de clarificar os utilizadores de duvidas que possam surgir.
+
+======================================================Menu Inicial=====================================================
+->Login:
+  Insira o seu id profissional com o formato referido e password pré-definido, com tamanho inferior a 50 caracteres;
+  Caso se não lembrar da sua password, carregue na opçao "Forgot Password", na qual será enviado um código para 
+  confirmação e posteriormente poderá mudar a sua password;
+  
+  Nota:Caso se enganar a preencher as suas credenciais, não se preocupe pode tentar de novo! 
+
+->Registo: 
+  Caso não tenha conta, insira a informaçao pedida:
+	Insira o seu código profissional, nao exceder os 8 caracteres(CCC_XXXX);
+	Insira o seu username e password à sua escolha, com o tamanho inferior a 50 caracteres;
+	
+	Nota: Apôs efetuar o registo, terá acesso às funcionalidades da aplicação.
+-> Sair:
+  Nesta opção, o utilizaddor desliga a aplicação, podendo voltar a usufruir a aplicação sempre que desejar.
+
+=====================================================🚨️ Menu Cliente🚨️ ====================================================
+
+->Ver crimes:
+  Nesta secção pode associar um crime como resolvido, bem como pesquisar um crime com certas características.
+  
+  --Marcar como assistido:
+  	Nesta opção pode marcar um crime como resolvido, sendo posteriormente apagado da folha de registos.
+  	
+  --Filtrar por data:
+  	Neste secção pode pesquisar um crime a partir da data da ocorrência:
+  	
+  	--Insira o dia: preencha o espaço com um numero entre(1-31);
+  	--Insira o mês: preencha o espaço com um numero entre(1-12);
+  	--Insira o ano: preencha o espaço com um numero entre(2000-2150).
+  	
+  	Aviso: Insira os dados pedidos no tempo em que se encontra!!!
+  	
+  -- Filtrar por Local:
+  	-- Insira o Local desejado: insira o nome da localidade com tamanho inferior a 40 caracteres;
+  	
+  -- Filtrar por Nome:
+  	-- Insira o Nome desejado:insira o nome da vítima/testemunha com tamanho inferior a 40 caracteres;
+  	
+->Gerir registo:
+  --Alterar registo:
+	Caso deseja alterar o seu username ou password, preencha os espaços com a nova infromaçao que deseja, não 
+	ultrapassando o máximo de 100 caracteres. 
+	Caso deseja alterar apenas um elemento, preencha esse espaço com um zero.
+	
+  --Apagar registo:
+  	Nesta opção pode eliminar o seu resgisto, caso não esteja interresado em continuar a usar esta aplicação.
+  	
+->Sair do programa:
+	Nesta opção pode efetuar o Logout da aplicação,sendo direcionado para o menu inicial.
+	
+->Chat:
+	Pode comunicar com um profissional de saúde que esteja online em tempo real.
+->HELP:
+	Nesta opção, pode consultar um ficheiro com a explicação das funcionalidades existentes nesta aplicação.

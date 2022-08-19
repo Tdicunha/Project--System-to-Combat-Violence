@@ -1,0 +1,4 @@
+"17-5-2021";"18:00";"Coimbra";"Assalto";"Joao"
+"17-5-2021";"19:00";"Lisboa";"Assalto";"Luis"
+"17-6-2021";"19:00";"Beja";"Assalto";"Joao"
+"17-7-2021";"18:00";"Beja";"Assalto";"Telmo"
